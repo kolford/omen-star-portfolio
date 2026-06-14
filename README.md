@@ -76,5 +76,5 @@ Omen Star was founded in 2019 by Kol Ford alongside other creative leads includi
 
 ---
 
-*This portfolio is maintained as part of Kol Ford's GitHub presence. For the latest productions and news, visit [omenstar.com](https://omenstar.com).*# omen-star-portfolio
+*For the latest productions and news, visit [omenstar.com](https://omenstar.com).*# omen-star-portfolio
 portfolio of Omen Stars work
